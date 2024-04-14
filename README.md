@@ -1,4 +1,5 @@
-# <img src="assets/images/rxjs.png" alt="RxJS Logo" width="86" height="86"> Cтартер для интенисива RxJS
+# <img src="assets/images/rxjs.png" alt="RxJS Logo" width="86" height="86"> 
+## Drilling RxJS cases
 
 ## Установка и использование
 
